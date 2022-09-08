@@ -962,6 +962,6 @@ SSL connection has been closed unexpectedly</td>
   <li><a href="http://docs.sqlalchemy.org">SQLAlchemy Docs</a></li>
 </ul>
 <br>
-<b>For queries or issues, feel free to contact or open an <a href="https://github.com/srcecde/aws-lambda-cheatsheet/issues">issue</a></b>
+
 
 
